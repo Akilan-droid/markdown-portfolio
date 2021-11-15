@@ -1,0 +1,3 @@
+This image was taken from the ganesha.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
